@@ -18,7 +18,7 @@
         "name": "mmmoffice",
         "type": "folder",
         "path": "./public/database/mmmoffice",
-        "mtime": "Sun Mar 13 2016 19:17:56 GMT+0800 (中国标准时间)",
+        "mtime": "Sun Mar 13 2016 19:28:28 GMT+0800 (中国标准时间)",
         "files": [
             {
                 "name": "mmm-注册1.png",
@@ -40,6 +40,13 @@
                 "path": "./public/database/mmmoffice/mmm-注册3.png",
                 "size": 25389,
                 "mtime": "Sun Mar 13 2016 19:17:56 GMT+0800 (中国标准时间)"
+            },
+            {
+                "name": "mmm-注册4.png",
+                "type": "file-img",
+                "path": "./public/database/mmmoffice/mmm-注册4.png",
+                "size": 15362,
+                "mtime": "Sun Mar 13 2016 19:28:28 GMT+0800 (中国标准时间)"
             },
             {
                 "name": "mmm-注册流程0.jpeg",
